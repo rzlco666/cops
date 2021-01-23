@@ -1,0 +1,5 @@
+- Aplikasi pertama kali dibuka Mengarahkan ke index.php
+- Query database disimpan
+  : - admin : admin/proses_admin.php
+    - user : user/proses_user.php
+
